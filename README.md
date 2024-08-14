@@ -2,6 +2,9 @@
 <h3>A Per Scholas Software Engineering Capstone</h3>
 <p>Jeff Lounsbury, August 2024 MERN Software Stack</p>
 
+<h3>Live site</h3>
+<a href="https://capstone-frontend-0m5p.onrender.com">https://capstone-frontend-0m5p.onrender.com/</a>
+
 <h3>About the App</h3>
 <p>This project is a doggy play date app.  The user can sign up then log in to see what playdates have been made by them or other users in the playdates tab.  To make a playdate with another dog, the user can navigate to the dog list tab, see the other dogs on the app with some basic information.  They can then click on the make a playdate button which takes them to a screen with their information and they other dogs information. They fill out the form at the bottom, and hit the make a play date button. This will redirect them to their lists of playdates which is then updated.</p>
 
@@ -13,6 +16,8 @@
 
 <h3>Unlisted video tour of the website:</h3>
 <a href=""></a>
+
+
 
 <h3>Link to my live backend:</h3>
 <a href="https://capstone-backend-1cje.onrender.com/">https://capstone-backend-1cje.onrender.com/</a>
