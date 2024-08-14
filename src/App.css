@@ -1,0 +1,135 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #0096C7;
+    color:#CAF0F8;
+   height:100%;
+ 
+   min-width:610px;
+}
+/* . is class in css */
+
+*{
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    margin-bottom:10px;
+}
+
+.main{
+    padding: 20px;
+    padding-bottom:50px;
+    min-height: 75vh;
+    margin: 0 auto -50px;
+}
+.nav {
+    background-color:#023E8A;
+    height:10vh;
+    width:100%;
+    padding-top:20px;
+    
+    
+}
+.nav  ul{
+    display:flex;
+    list-style-type: none;
+    padding-top:10px;
+    justify-content:space-between;
+}
+
+.nav a {
+    color:#CAF0F8; 
+    margin-left:25px;
+    margin-right:25px;
+    border-radius: 20px;
+    background-color: #00B4D8;
+    padding:15px;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px #CAF0F8;
+
+}
+
+.nav a:hover{
+    opacity:80%;
+    text-decoration: none;
+}
+.linkbtn{
+    color:#CAF0F8;
+    
+}
+.linkbtn:hover{
+    opacity:80%;
+    text-decoration: none;
+    
+}
+
+button {
+    margin:5px;
+    padding:10px;
+    border-radius:5px;
+    border:none;
+    background-color: #023E8A;
+    color:#CAF0F8;
+}
+
+button:hover{
+    opacity:80%;
+    text-decoration: underline;
+    cursor:pointer;
+}
+.footer{
+    background-color:#023E8A;
+    height: 10vh;
+    padding-top:5px;
+    margin-top:20px;
+    width:100%;
+}
+
+.footertext {
+    padding-left:5px;
+}
+
+input{
+    margin:5px;
+    padding:5px;
+}
+
+.otherDogs{
+    display:flex;
+    flex-wrap: wrap;
+}
+.eachDog{
+    background-color: #023E8A;
+    margin:10px;
+    padding:15px;
+    border-radius:10px;
+    box-shadow: 1px 1px 1px #CAF0F8;
+}
+
+.playDates{
+ display:flex;
+ flex-direction: column;
+}
+
+.eachPlayDate{
+    background-color: #023E8A;
+    margin:10px;
+    padding:15px;
+    border-radius:10px;
+    box-shadow: 1px 1px 1px #CAF0F8;
+    width:50%;
+}
+
+.dogInfo{
+    display:flex;
+    margin-top:25px;
+    margin-bottom:50px;
+}
+.yourDogInfo{
+    margin-right:100px;
+}
+
+.playdatetextarea{ 
+    width:400px;
+}
