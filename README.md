@@ -15,7 +15,7 @@
 <p>User encription is not part of this application, so no sensitive information should be registered with the database. Login information is held in local storage, then when information about that user is needed, or a playdate needs to be created, it is referenced with that information inside the MongoDB collection. To show only the playdates associated with the user, the playdate collection contains the ._id of both users, then is filtered through to get only the matching ._id's.</p>
 
 <h3>Unlisted video tour of the website:</h3>
-<a href=""></a>
+<a href="https://youtu.be/6Jx33MSwKNw">https://youtu.be/6Jx33MSwKNw</a>
 
 
 
