@@ -32,8 +32,8 @@ function App(props) {
   //login function
   const handleSubmit = (e) =>{
     e.preventDefault();
-    
-    axios.post(`https://capstone-backend-1cje.onrender.com/login`, {username, password, loggedIn, dogName, age} )
+    //took out login because this broke on live server
+    axios.post(`https://capstone-backend-1cje.onrender.com/`, {username, password, loggedIn, dogName, age} )
         .then(result => {
           // if(user){
                 navigate(`/`)
