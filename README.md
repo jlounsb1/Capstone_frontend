@@ -18,6 +18,3 @@
 <a href="https://youtu.be/6Jx33MSwKNw">https://youtu.be/6Jx33MSwKNw</a>
 
 
-
-<h3>Link to my live backend:</h3>
-<a href="https://capstone-backend-1cje.onrender.com/">https://capstone-backend-1cje.onrender.com/</a>
